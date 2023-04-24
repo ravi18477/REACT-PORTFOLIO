@@ -1,0 +1,18 @@
+
+.deshead{
+    display: flex;
+}
+
+.desyear{
+    
+    padding-left: 200px;
+
+}
+
+.desschool{
+    width: 200px;
+}
+
+.line{
+    padding-left: 20px;
+}

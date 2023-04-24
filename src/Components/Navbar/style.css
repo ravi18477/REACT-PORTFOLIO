@@ -1,0 +1,15 @@
+.header{
+    background-color: rgb(27, 27, 169);
+    color: aliceblue;
+}
+
+.cal{
+    /* padding: 2px 0px 2px 5px; */
+    /* margin: 5px; */
+
+    padding-left: 50px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+
+
+}
